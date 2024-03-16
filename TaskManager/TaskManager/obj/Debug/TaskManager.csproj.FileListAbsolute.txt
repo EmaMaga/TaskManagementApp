@@ -1,0 +1,17 @@
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\bin\Debug\TaskManagmentApp.exe.config
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\bin\Debug\TaskManagmentApp.exe
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\bin\Debug\TaskManagmentApp.pdb
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\Pages\MainWindow.g.cs
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\Pages\Register_Frame.g.cs
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\Pages\App.g.cs
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManagmentApp_MarkupCompile.cache
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManagmentApp_MarkupCompile.lref
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\Pages\MainWindow.baml
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\Pages\Register_Frame.baml
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManagmentApp.g.resources
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManagmentApp.Properties.Resources.resources
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManagmentApp.exe
+C:\Users\ema_m\Desktop\c#\TaskManager\TaskManager\obj\Debug\TaskManagmentApp.pdb
